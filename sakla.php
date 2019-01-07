@@ -1,0 +1,2 @@
+sakla.php
+dizin/
